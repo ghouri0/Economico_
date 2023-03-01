@@ -1,0 +1,26 @@
+.avatar1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.label {
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    justify-content: center;
+    margin: auto;
+    margin-left: -5px;
+}
+
+.label .p{
+    margin: 10px;
+    font-weight: light;
+    color: grey;
+}
+#title .label{
+    font-size: 18px;
+}
