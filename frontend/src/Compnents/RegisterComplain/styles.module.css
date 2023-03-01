@@ -1,0 +1,16 @@
+.error_msg,
+.success_msg {
+	width: 500px;
+	padding: 15px;
+	margin: 27px 86px 13px;
+	margin-left: 392px;
+	font-size: 12px;
+	background-color: #f34646;
+	color: white;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.success_msg {
+	background-color: #5cdd5c;
+}
