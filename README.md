@@ -7,4 +7,4 @@
 ### node app.js
 
 ## cd admin npm install
-### npm start
+### npm start -- --port 8080
